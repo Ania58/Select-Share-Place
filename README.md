@@ -14,7 +14,7 @@ A simple TypeScript project that allows users to enter an address, fetch its coo
 1. **Install dependencies**  
 
 ```bash
-npm instal
+npm install
 ```
 
 2. **Set up environment variables**  
