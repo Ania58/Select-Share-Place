@@ -1,3 +1,5 @@
+const apiKey = process.env.GOOGLE_MAPS_API_KEY;
+
 const form = document.querySelector('form')!;
 const addressInput = document.getElementById('address')! as HTMLInputElement;
 
